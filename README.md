@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nawa-Dar
-- 👀 I’m interested in playing sports and watcg=hing TV.
+- 👀 I’m interested in playing sports and watching TV.
 - 🌱 I’m currently learning Python at uni.
 - 💞️ I’m looking to collaborate on Python code.
 - 📫 How to reach me via email.
